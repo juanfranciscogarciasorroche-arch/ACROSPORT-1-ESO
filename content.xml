@@ -1,0 +1,2109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260520104046K3F6WJ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260520104046YT2TUD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Construimos figuras cooperativas: acrosport, seguridad y trabajo en equipo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje de Educación Física para 1.º de ESO basada en el acrosport cooperativo, la seguridad, la creatividad y el trabajo en equipo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juan Francisco García Sorroche</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Recurso educativo digital creado con eXeLearning 3 para desarrollar una Situación de Aprendizaje de Educación Física en 1.º de ESO. El alumnado diseñará y presentará una composición grupal de acrosport, aplicando normas de seguridad, cooperación, participación equilibrada y uso responsable de tecnologías digitales.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779263981148</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnb-ncfz2lawm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnb-ncfz2lawm</odePageId>
+      <odeBlockId>block-1779094262674-21gskc26d</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnb-ncfz2lawm</odePageId>
+          <odeBlockId>block-1779094262674-21gskc26d</odeBlockId>
+          <odeIdeviceId>idevice-1779094262673-hw6w551nu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Construimos figuras cooperativas: acrosport, seguridad y trabajo en equipo</strong></p>
+<p style="text-align: justify;"><strong>Situación de Aprendizaje de Educación Física para 1.º de ESO.</strong></p>
+<p style="text-align: justify;"><strong>Autor: Juan Francisco García Sorroche.</strong></p>
+<p style="text-align: justify;"><strong>Temporalización: 4 semanas, 8 sesiones.</strong></p>
+<p style="text-align: justify;">Producto final: composición grupal de acrosport.</p>
+<p style="text-align: justify;">En esta Situación de Aprendizaje aprenderemos a crear figuras corporales de acrosport de forma segura, cooperativa y creativa. Trabajaremos en parejas y pequeños grupos, repartiremos roles, practicaremos apoyos y desmontajes seguros, utilizaremos recursos digitales para observar modelos y revisar nuestros ensayos, y terminaremos con una composición final grupal.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094262673-hw6w551nu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Construimos figuras cooperativas: acrosport, seguridad y trabajo en equipo</strong></p>\n<p style=\"text-align: justify;\"><strong>Situación de Aprendizaje de Educación Física para 1.º de ESO.</strong></p>\n<p style=\"text-align: justify;\"><strong>Autor: Juan Francisco García Sorroche.</strong></p>\n<p style=\"text-align: justify;\"><strong>Temporalización: 4 semanas, 8 sesiones.</strong></p>\n<p style=\"text-align: justify;\">Producto final: composición grupal de acrosport.</p>\n<p style=\"text-align: justify;\">En esta Situación de Aprendizaje aprenderemos a crear figuras corporales de acrosport de forma segura, cooperativa y creativa. Trabajaremos en parejas y pequeños grupos, repartiremos roles, practicaremos apoyos y desmontajes seguros, utilizaremos recursos digitales para observar modelos y revisar nuestros ensayos, y terminaremos con una composición final grupal.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnf-csgjs43jt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnf-csgjs43jt</odePageId>
+      <odeBlockId>block-1779094354811-id4mq3p93</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnf-csgjs43jt</odePageId>
+          <odeBlockId>block-1779094354811-id4mq3p93</odeBlockId>
+          <odeIdeviceId>idevice-1779094354809-cvctwi8nl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El centro de interés de esta SdA será el acrosport como actividad física cooperativa. El alumnado aprenderá normas de seguridad, roles de portor, ágil y ayuda, equilibrio, coordinación, cooperación, creatividad y uso responsable de recursos digitales.</p>
+<p style="text-align: justify;">La propuesta se dirige a 1.º de ESO en Educación Física y se desarrollará durante 4 semanas, con un total de 8 sesiones.</p>
+<p style="text-align: justify;">El producto final será una composición grupal de acrosport presentada ante el grupo-clase o grabada en vídeo, respetando siempre las normas de seguridad y privacidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094354809-cvctwi8nl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El centro de interés de esta SdA será el acrosport como actividad física cooperativa. El alumnado aprenderá normas de seguridad, roles de portor, ágil y ayuda, equilibrio, coordinación, cooperación, creatividad y uso responsable de recursos digitales.</p>\n<p style=\"text-align: justify;\">La propuesta se dirige a 1.º de ESO en Educación Física y se desarrollará durante 4 semanas, con un total de 8 sesiones.</p>\n<p style=\"text-align: justify;\">El producto final será una composición grupal de acrosport presentada ante el grupo-clase o grabada en vídeo, respetando siempre las normas de seguridad y privacidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfng-lecau33ek</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfng-lecau33ek</odePageId>
+      <odeBlockId>block-1779094400507-ornqbt5yh</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfng-lecau33ek</odePageId>
+          <odeBlockId>block-1779094400507-ornqbt5yh</odeBlockId>
+          <odeIdeviceId>idevice-1779094400505-06rcd3kj2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Durante esta SdA podremos utilizar vídeos, imágenes, rúbricas digitales, formularios o grabaciones de ensayo. Para hacerlo de forma segura y responsable, seguiremos estas normas:</p>
+<p>1. No se grabará a ningún compañero o compañera sin permiso.<br />2. Las imágenes o vídeos se usarán solo para aprender y mejorar.<br />3. No se publicará ni compartirá ningún vídeo fuera del aula.<br />4. Se utilizarán preferentemente dispositivos del centro o del docente.<br />5. Los formularios y rúbricas solo recogerán la información necesaria para evaluar el aprendizaje.<br />6. Se respetará siempre la intimidad de todas las personas.<br />7. Los vídeos de ensayo se eliminarán al finalizar la actividad, salvo autorización expresa.<br />8. La tecnología se usará solo en los momentos indicados por el profesor.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094400505-06rcd3kj2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Durante esta SdA podremos utilizar vídeos, imágenes, rúbricas digitales, formularios o grabaciones de ensayo. Para hacerlo de forma segura y responsable, seguiremos estas normas:</p>\n<p>1. No se grabará a ningún compañero o compañera sin permiso.<br />2. Las imágenes o vídeos se usarán solo para aprender y mejorar.<br />3. No se publicará ni compartirá ningún vídeo fuera del aula.<br />4. Se utilizarán preferentemente dispositivos del centro o del docente.<br />5. Los formularios y rúbricas solo recogerán la información necesaria para evaluar el aprendizaje.<br />6. Se respetará siempre la intimidad de todas las personas.<br />7. Los vídeos de ensayo se eliminarán al finalizar la actividad, salvo autorización expresa.<br />8. La tecnología se usará solo en los momentos indicados por el profesor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfng-53fvqxam5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfng-53fvqxam5</odePageId>
+      <odeBlockId>block-1779094593615-klgns5k18</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfng-53fvqxam5</odePageId>
+          <odeBlockId>block-1779094593615-klgns5k18</odeBlockId>
+          <odeIdeviceId>idevice-1779094593613-vbgorgbqy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El producto final será una composición grupal de acrosport. Cada grupo deberá diseñar, ensayar y presentar una secuencia con entrada inicial, varias figuras, transiciones, participación visible de todos los miembros, roles bien repartidos, desmontajes seguros y final claro.</p>
+<p style="text-align: justify;">La composición podrá presentarse ante el grupo-clase o grabarse en vídeo, siempre respetando la privacidad y las normas de seguridad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094593613-vbgorgbqy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El producto final será una composición grupal de acrosport. Cada grupo deberá diseñar, ensayar y presentar una secuencia con entrada inicial, varias figuras, transiciones, participación visible de todos los miembros, roles bien repartidos, desmontajes seguros y final claro.</p>\n<p style=\"text-align: justify;\">La composición podrá presentarse ante el grupo-clase o grabarse en vídeo, siempre respetando la privacidad y las normas de seguridad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfni-nh20wxzel</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfni-9sgltblis</odePageId>
+  <odeParentPageId>page-mpdrrfni-nh20wxzel</odeParentPageId>
+  <pageName>Recursos para el docente</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfni-9sgltblis</odePageId>
+      <odeBlockId>block-1779094740099-n37035st4</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfni-9sgltblis</odePageId>
+          <odeBlockId>block-1779094740099-n37035st4</odeBlockId>
+          <odeIdeviceId>idevice-1779094740097-hl9wcyswg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vídeos breves de figuras básicas.<br />Imágenes de apoyos correctos.<br />Rúbrica digital.<br />Formulario de autoevaluación.<br />Formulario de coevaluación.<br />Plantillas impresas.<br />Documento compartido.<br />Pizarra digital.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAASWq5qAAA41-5EbMdg==" title="">RECURSOS</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094740097-hl9wcyswg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vídeos breves de figuras básicas.<br />Imágenes de apoyos correctos.<br />Rúbrica digital.<br />Formulario de autoevaluación.<br />Formulario de coevaluación.<br />Plantillas impresas.<br />Documento compartido.<br />Pizarra digital.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAASWq5qAAA41-5EbMdg==\" title=\"\">RECURSOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfni-bnxbnxhrq</odePageId>
+  <odeParentPageId>page-mpdrrfni-nh20wxzel</odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfni-bnxbnxhrq</odePageId>
+      <odeBlockId>block-1779094827318-umto6dkl6</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfni-bnxbnxhrq</odePageId>
+          <odeBlockId>block-1779094827318-umto6dkl6</odeBlockId>
+          <odeIdeviceId>idevice-1779094827317-tsc2mwb6n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Fichas visuales de figuras.<br />Vídeo de ensayo.<br />Rúbrica de evaluación.<br />Documento de grupo.<br />Diana de autoevaluación.<br />Formulario de coevaluación.</p>
+<p><a href="https://padlet.com/juan_francisco_garcia_sorroche/recursos-para-crear-nuestra-composicion-de-acrosport-j96pox8a70f9be9h" title="">RECURSOS</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094827317-tsc2mwb6n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Fichas visuales de figuras.<br />Vídeo de ensayo.<br />Rúbrica de evaluación.<br />Documento de grupo.<br />Diana de autoevaluación.<br />Formulario de coevaluación.</p>\n<p><a href=\"https://padlet.com/juan_francisco_garcia_sorroche/recursos-para-crear-nuestra-composicion-de-acrosport-j96pox8a70f9be9h\" title=\"\">RECURSOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnj-tbgd8nmwu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnj-tbgd8nmwu</odePageId>
+      <odeBlockId>block-1779094959950-jmnz37jkm</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnj-tbgd8nmwu</odePageId>
+          <odeBlockId>block-1779094959950-jmnz37jkm</odeBlockId>
+          <odeIdeviceId>idevice-1779094959949-qcecjykd0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/LINEA TEMPORAL.png" width="1055" height="1491" alt="" /></p>
+<p style="text-align: justify;">La SdA se organiza en 8 sesiones distribuidas en 4 semanas. La secuencia comienza con la presentación del proyecto y las normas de seguridad, continúa con figuras en pareja y pequeño grupo, avanza hacia el diseño de una composición grupal y finaliza con el ensayo grabado, la presentación final y la coevaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779094959949-qcecjykd0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/LINEA TEMPORAL.png\" width=\"1055\" height=\"1491\" alt=\"\" /></p>\n<p style=\"text-align: justify;\">La SdA se organiza en 8 sesiones distribuidas en 4 semanas. La secuencia comienza con la presentación del proyecto y las normas de seguridad, continúa con figuras en pareja y pequeño grupo, avanza hacia el diseño de una composición grupal y finaliza con el ensayo grabado, la presentación final y la coevaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnk-bblhtxgbw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnk-bblhtxgbw</odePageId>
+      <odeBlockId>block-1779095033365-ff59cnri3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnk-bblhtxgbw</odePageId>
+          <odeBlockId>block-1779095033365-ff59cnri3</odeBlockId>
+          <odeIdeviceId>idevice-1779095033364-d7zxlkcrv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Tarea</th>
+<th>Actividad del alumnado</th>
+<th>Criterio de evaluación asociado</th>
+<th>Instrumento de evaluación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Presentación inicial</td>
+<td>El alumnado conoce el proyecto, el producto final y participa en una lluvia de ideas sobre acrosport, seguridad y trabajo en equipo.</td>
+<td>Participar activamente en situaciones motrices, mostrando respeto, responsabilidad y disposición al trabajo cooperativo.</td>
+<td>Observación docente</td>
+</tr>
+<tr>
+<td>2. Seguridad y roles</td>
+<td>Identifica y practica los roles de portor, ágil y ayuda, aplicando normas básicas de seguridad, apoyos y desmontajes.</td>
+<td>Adoptar medidas de seguridad en la práctica físico-deportiva, cuidando la integridad propia y ajena.</td>
+<td>Lista de cotejo docente</td>
+</tr>
+<tr>
+<td>3. Figuras básicas en pareja</td>
+<td>Realiza figuras sencillas en pareja, alternando roles y aplicando equilibrio, comunicación y ayuda.</td>
+<td>Resolver situaciones motrices de cooperación ajustando el movimiento corporal a la tarea.</td>
+<td>Lista de cotejo docente</td>
+</tr>
+<tr>
+<td>4. Autoevaluación inicial</td>
+<td>Cada alumno o alumna valora su participación, seguridad, cooperación y ejecución técnica.</td>
+<td>Valorar la propia práctica motriz, identificando aspectos de mejora con actitud crítica.</td>
+<td>Diana de autoevaluación</td>
+</tr>
+<tr>
+<td>5. Figuras en pequeño grupo</td>
+<td>Practica figuras de 3, 4 o 5 componentes, organizando roles, ayudas y responsabilidades dentro del grupo.</td>
+<td>Cooperar en retos motores colectivos, respetando diferencias y asumiendo responsabilidades.</td>
+<td>Lista de cotejo docente</td>
+</tr>
+<tr>
+<td>6. Creación de una secuencia grupal</td>
+<td>Diseña una composición con entrada, figuras, transiciones y final, cuidando estética, seguridad y participación.</td>
+<td>Crear producciones motrices colectivas con intención expresiva, coordinación y creatividad.</td>
+<td>Guion de composición grupal</td>
+</tr>
+<tr>
+<td>7. Grabación y revisión del ensayo</td>
+<td>El grupo graba un ensayo, revisa errores y propone mejoras en seguridad, coordinación y ejecución.</td>
+<td>Utilizar recursos digitales de forma responsable y segura para mejorar el aprendizaje motor.</td>
+<td>Rúbrica y análisis de vídeo</td>
+</tr>
+<tr>
+<td>8. Presentación final y coevaluación</td>
+<td>Cada grupo presenta su composición final y valora el trabajo de otro grupo de forma respetuosa.</td>
+<td>Evaluar producciones propias y ajenas con valoraciones respetuosas y propuestas de mejora.</td>
+<td>Rúbrica analítica y formulario de coevaluación</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p style="text-align: justify;">La propuesta atiende a la diversidad mediante agrupamientos flexibles, roles alternativos, figuras con distintos niveles de dificultad, apoyos visuales, materiales impresos y evaluación del progreso individual y grupal.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095033364-d7zxlkcrv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Tarea</th>\n<th>Actividad del alumnado</th>\n<th>Criterio de evaluación asociado</th>\n<th>Instrumento de evaluación</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1. Presentación inicial</td>\n<td>El alumnado conoce el proyecto, el producto final y participa en una lluvia de ideas sobre acrosport, seguridad y trabajo en equipo.</td>\n<td>Participar activamente en situaciones motrices, mostrando respeto, responsabilidad y disposición al trabajo cooperativo.</td>\n<td>Observación docente</td>\n</tr>\n<tr>\n<td>2. Seguridad y roles</td>\n<td>Identifica y practica los roles de portor, ágil y ayuda, aplicando normas básicas de seguridad, apoyos y desmontajes.</td>\n<td>Adoptar medidas de seguridad en la práctica físico-deportiva, cuidando la integridad propia y ajena.</td>\n<td>Lista de cotejo docente</td>\n</tr>\n<tr>\n<td>3. Figuras básicas en pareja</td>\n<td>Realiza figuras sencillas en pareja, alternando roles y aplicando equilibrio, comunicación y ayuda.</td>\n<td>Resolver situaciones motrices de cooperación ajustando el movimiento corporal a la tarea.</td>\n<td>Lista de cotejo docente</td>\n</tr>\n<tr>\n<td>4. Autoevaluación inicial</td>\n<td>Cada alumno o alumna valora su participación, seguridad, cooperación y ejecución técnica.</td>\n<td>Valorar la propia práctica motriz, identificando aspectos de mejora con actitud crítica.</td>\n<td>Diana de autoevaluación</td>\n</tr>\n<tr>\n<td>5. Figuras en pequeño grupo</td>\n<td>Practica figuras de 3, 4 o 5 componentes, organizando roles, ayudas y responsabilidades dentro del grupo.</td>\n<td>Cooperar en retos motores colectivos, respetando diferencias y asumiendo responsabilidades.</td>\n<td>Lista de cotejo docente</td>\n</tr>\n<tr>\n<td>6. Creación de una secuencia grupal</td>\n<td>Diseña una composición con entrada, figuras, transiciones y final, cuidando estética, seguridad y participación.</td>\n<td>Crear producciones motrices colectivas con intención expresiva, coordinación y creatividad.</td>\n<td>Guion de composición grupal</td>\n</tr>\n<tr>\n<td>7. Grabación y revisión del ensayo</td>\n<td>El grupo graba un ensayo, revisa errores y propone mejoras en seguridad, coordinación y ejecución.</td>\n<td>Utilizar recursos digitales de forma responsable y segura para mejorar el aprendizaje motor.</td>\n<td>Rúbrica y análisis de vídeo</td>\n</tr>\n<tr>\n<td>8. Presentación final y coevaluación</td>\n<td>Cada grupo presenta su composición final y valora el trabajo de otro grupo de forma respetuosa.</td>\n<td>Evaluar producciones propias y ajenas con valoraciones respetuosas y propuestas de mejora.</td>\n<td>Rúbrica analítica y formulario de coevaluación</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p style=\"text-align: justify;\">La propuesta atiende a la diversidad mediante agrupamientos flexibles, roles alternativos, figuras con distintos niveles de dificultad, apoyos visuales, materiales impresos y evaluación del progreso individual y grupal.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnl-skwlna8f2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnl-1cg6qcasz</odePageId>
+  <odeParentPageId>page-mpdrrfnl-skwlna8f2</odeParentPageId>
+  <pageName>Rubrica analítica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rubrica analítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rubrica analítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnl-1cg6qcasz</odePageId>
+      <odeBlockId>block-1779095355709-v9q5f4050</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnl-1cg6qcasz</odePageId>
+          <odeBlockId>block-1779095355709-v9q5f4050</odeBlockId>
+          <odeIdeviceId>idevice-1779095355707-fvsgznjvy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Rúbrica analítica del producto final</h2>
+<p><strong>Cuándo se utilizará:</strong> principalmente en las sesiones 7 y 8. En la sesión 7 servirá para orientar el feedback durante el ensayo grabado. En la sesión 8 se utilizará para valorar la composición grupal final.</p>
+<p><strong>Qué evalúa:</strong> seguridad, distribución de roles, cooperación, ejecución técnica, creatividad, participación, inclusión y uso responsable de herramientas digitales.</p>
+<p><strong>Cómo se tratarán los datos:</strong> el docente registrará el nivel de desempeño de cada grupo en una rúbrica digital o en una hoja de cálculo. Estos resultados se contrastarán con la lista de cotejo docente, la autoevaluación y la coevaluación.</p>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Criterio</th>
+<th>4 - Excelente</th>
+<th>3 - Adecuado</th>
+<th>2 - En proceso</th>
+<th>1 - Inicial</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Seguridad y cuidado</strong></td>
+<td>Aplica siempre normas de seguridad, ayudas, apoyos y desmontajes correctos. Anticipa riesgos.</td>
+<td>Aplica las normas casi siempre y corrige con indicaciones puntuales.</td>
+<td>Necesita recordatorios frecuentes para mantener la seguridad.</td>
+<td>No respeta normas básicas o pone en riesgo la ejecución.</td>
+</tr>
+<tr>
+<td><strong>Roles y cooperación</strong></td>
+<td>Todos asumen roles, se comunican, ayudan y toman decisiones de forma equilibrada.</td>
+<td>La mayoría participa y coopera de forma adecuada.</td>
+<td>La cooperación es irregular y algunos miembros participan poco.</td>
+<td>Hay escasa organización, conflictos o falta de colaboración.</td>
+</tr>
+<tr>
+<td><strong>Control corporal y técnica</strong></td>
+<td>Figuras estables, control postural, equilibrio y transiciones fluidas.</td>
+<td>Figuras correctas con pequeños desajustes.</td>
+<td>Figuras simples o poco estables; requiere ayuda constante.</td>
+<td>Dificultades importantes para ejecutar las figuras propuestas.</td>
+</tr>
+<tr>
+<td><strong>Creatividad y composición</strong></td>
+<td>Secuencia original, clara, estética y bien enlazada, con entrada y final.</td>
+<td>Secuencia ordenada con algunos elementos creativos.</td>
+<td>Secuencia poco fluida o con escasa variedad.</td>
+<td>No hay composición clara o está incompleta.</td>
+</tr>
+<tr>
+<td><strong>Participación e inclusión</strong></td>
+<td>Todos participan según sus posibilidades y se respetan las diferencias.</td>
+<td>Participación general equilibrada con pequeños ajustes.</td>
+<td>Participación desigual; algún miembro queda poco integrado.</td>
+<td>Participación muy desequilibrada o excluyente.</td>
+</tr>
+<tr>
+<td><strong>Uso responsable de tecnología</strong></td>
+<td>Utiliza vídeo y rúbricas con permiso, privacidad y finalidad de mejora.</td>
+<td>Uso adecuado con algún recordatorio.</td>
+<td>Uso poco autónomo o con necesidad de supervisión continua.</td>
+<td>Uso inadecuado o no respeta normas de privacidad.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095355707-fvsgznjvy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Rúbrica analítica del producto final</h2>\n<p><strong>Cuándo se utilizará:</strong> principalmente en las sesiones 7 y 8. En la sesión 7 servirá para orientar el feedback durante el ensayo grabado. En la sesión 8 se utilizará para valorar la composición grupal final.</p>\n<p><strong>Qué evalúa:</strong> seguridad, distribución de roles, cooperación, ejecución técnica, creatividad, participación, inclusión y uso responsable de herramientas digitales.</p>\n<p><strong>Cómo se tratarán los datos:</strong> el docente registrará el nivel de desempeño de cada grupo en una rúbrica digital o en una hoja de cálculo. Estos resultados se contrastarán con la lista de cotejo docente, la autoevaluación y la coevaluación.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Criterio</th>\n<th>4 - Excelente</th>\n<th>3 - Adecuado</th>\n<th>2 - En proceso</th>\n<th>1 - Inicial</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Seguridad y cuidado</strong></td>\n<td>Aplica siempre normas de seguridad, ayudas, apoyos y desmontajes correctos. Anticipa riesgos.</td>\n<td>Aplica las normas casi siempre y corrige con indicaciones puntuales.</td>\n<td>Necesita recordatorios frecuentes para mantener la seguridad.</td>\n<td>No respeta normas básicas o pone en riesgo la ejecución.</td>\n</tr>\n<tr>\n<td><strong>Roles y cooperación</strong></td>\n<td>Todos asumen roles, se comunican, ayudan y toman decisiones de forma equilibrada.</td>\n<td>La mayoría participa y coopera de forma adecuada.</td>\n<td>La cooperación es irregular y algunos miembros participan poco.</td>\n<td>Hay escasa organización, conflictos o falta de colaboración.</td>\n</tr>\n<tr>\n<td><strong>Control corporal y técnica</strong></td>\n<td>Figuras estables, control postural, equilibrio y transiciones fluidas.</td>\n<td>Figuras correctas con pequeños desajustes.</td>\n<td>Figuras simples o poco estables; requiere ayuda constante.</td>\n<td>Dificultades importantes para ejecutar las figuras propuestas.</td>\n</tr>\n<tr>\n<td><strong>Creatividad y composición</strong></td>\n<td>Secuencia original, clara, estética y bien enlazada, con entrada y final.</td>\n<td>Secuencia ordenada con algunos elementos creativos.</td>\n<td>Secuencia poco fluida o con escasa variedad.</td>\n<td>No hay composición clara o está incompleta.</td>\n</tr>\n<tr>\n<td><strong>Participación e inclusión</strong></td>\n<td>Todos participan según sus posibilidades y se respetan las diferencias.</td>\n<td>Participación general equilibrada con pequeños ajustes.</td>\n<td>Participación desigual; algún miembro queda poco integrado.</td>\n<td>Participación muy desequilibrada o excluyente.</td>\n</tr>\n<tr>\n<td><strong>Uso responsable de tecnología</strong></td>\n<td>Utiliza vídeo y rúbricas con permiso, privacidad y finalidad de mejora.</td>\n<td>Uso adecuado con algún recordatorio.</td>\n<td>Uso poco autónomo o con necesidad de supervisión continua.</td>\n<td>Uso inadecuado o no respeta normas de privacidad.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnl-3jmeyw7w3</odePageId>
+  <odeParentPageId>page-mpdrrfnl-skwlna8f2</odeParentPageId>
+  <pageName>Lista de cotejo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnl-3jmeyw7w3</odePageId>
+      <odeBlockId>block-1779095384203-1x007147f</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnl-3jmeyw7w3</odePageId>
+          <odeBlockId>block-1779095384203-1x007147f</odeBlockId>
+          <odeIdeviceId>idevice-1779095384202-bwxdqba5h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Lista de cotejo de observación docente</h2>
+<p><strong>Cuándo se utilizará:</strong> durante las sesiones 2, 3, 5, 6 y 7, mientras el alumnado practica figuras, reparte roles y prepara la composición final.</p>
+<p><strong>Qué evalúa:</strong> conductas observables durante el proceso: respeto de normas, comunicación, participación, organización de grupo, uso de apoyos, gestión del material, respuesta al feedback y uso responsable de la tecnología.</p>
+<p><strong>Cómo se tratarán los datos:</strong> el docente completará la lista de cotejo en una tablet, portátil o versión impresa. Los datos permitirán ajustar la enseñanza, reorganizar grupos, reforzar normas de seguridad o proponer figuras alternativas.</p>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Indicador observable</th>
+<th>Sí</th>
+<th>En proceso</th>
+<th>No</th>
+<th>Observaciones / feedback</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Escucha y respeta las normas de seguridad antes de iniciar la figura.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Identifica y respeta los roles de portor, ágil y ayuda.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Realiza apoyos y desmontajes de forma controlada.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Se comunica con su grupo antes, durante y después de cada figura.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Participa de forma activa y equilibrada en las tareas.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Acepta propuestas de mejora del docente y de sus compañeros.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Utiliza el material con cuidado y ordena el espacio de trabajo.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Usa la tecnología solo para la finalidad educativa acordada.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Respeta la privacidad: no graba ni difunde imágenes sin permiso.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+<tr>
+<td>Propone soluciones cuando aparece una dificultad técnica o motriz.</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095384202-bwxdqba5h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Lista de cotejo de observación docente</h2>\n<p><strong>Cuándo se utilizará:</strong> durante las sesiones 2, 3, 5, 6 y 7, mientras el alumnado practica figuras, reparte roles y prepara la composición final.</p>\n<p><strong>Qué evalúa:</strong> conductas observables durante el proceso: respeto de normas, comunicación, participación, organización de grupo, uso de apoyos, gestión del material, respuesta al feedback y uso responsable de la tecnología.</p>\n<p><strong>Cómo se tratarán los datos:</strong> el docente completará la lista de cotejo en una tablet, portátil o versión impresa. Los datos permitirán ajustar la enseñanza, reorganizar grupos, reforzar normas de seguridad o proponer figuras alternativas.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Indicador observable</th>\n<th>Sí</th>\n<th>En proceso</th>\n<th>No</th>\n<th>Observaciones / feedback</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Escucha y respeta las normas de seguridad antes de iniciar la figura.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Identifica y respeta los roles de portor, ágil y ayuda.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Realiza apoyos y desmontajes de forma controlada.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Se comunica con su grupo antes, durante y después de cada figura.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Participa de forma activa y equilibrada en las tareas.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Acepta propuestas de mejora del docente y de sus compañeros.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Utiliza el material con cuidado y ordena el espacio de trabajo.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Usa la tecnología solo para la finalidad educativa acordada.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Respeta la privacidad: no graba ni difunde imágenes sin permiso.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n<tr>\n<td>Propone soluciones cuando aparece una dificultad técnica o motriz.</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnn-f3kn882v3</odePageId>
+  <odeParentPageId>page-mpdrrfnl-skwlna8f2</odeParentPageId>
+  <pageName>Diana de autoevaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana de autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diana de autoevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnn-f3kn882v3</odePageId>
+      <odeBlockId>block-1779095402527-xi7fefw8i</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnn-f3kn882v3</odePageId>
+          <odeBlockId>block-1779095402527-xi7fefw8i</odeBlockId>
+          <odeIdeviceId>idevice-1779095402525-x3rtsyfya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Diana de autoevaluación del alumnado</h2>
+<p><strong>Cuándo se utilizará:</strong> al finalizar la sesión 4 y de nuevo tras el ensayo grabado de la sesión 7. Así el alumnado podrá comparar su percepción inicial con su evolución antes de la presentación final.</p>
+<p><strong>Qué evalúa:</strong> la percepción del propio aprendizaje en seis dimensiones: seguridad, cooperación, rol asumido, control corporal, uso responsable de la tecnología y mejora tras recibir feedback.</p>
+<p><strong>Cómo se usa:</strong> cada alumno o alumna marca un nivel del 1 al 4 en cada eje. Después escribe una breve reflexión con un logro, una dificultad y un compromiso de mejora.</p>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Dimensión</th>
+<th>1 - Inicial</th>
+<th>2 - En proceso</th>
+<th>3 - Adecuado</th>
+<th>4 - Excelente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Seguridad en las figuras y desmontajes</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Cooperación con mi grupo</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Responsabilidad en el rol asumido</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Control corporal, equilibrio y postura</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Uso responsable de la tecnología</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+</tr>
+<tr>
+<td>Mejora después del feedback recibido</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+<td>☐</td>
+</tr>
+</tbody>
+</table>
+<h3>Preguntas de reflexión</h3>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Pregunta de reflexión</th>
+<th>Respuesta del alumnado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Un logro conseguido por mi grupo ha sido...</td>
+<td></td>
+</tr>
+<tr>
+<td>Una dificultad que debemos mejorar es...</td>
+<td></td>
+</tr>
+<tr>
+<td>Una norma de seguridad que debo recordar siempre es...</td>
+<td></td>
+</tr>
+<tr>
+<td>Después de ver el vídeo del ensayo, cambiaría...</td>
+<td></td>
+</tr>
+<tr>
+<td>Mi compromiso para la presentación final es...</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095402525-x3rtsyfya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Diana de autoevaluación del alumnado</h2>\n<p><strong>Cuándo se utilizará:</strong> al finalizar la sesión 4 y de nuevo tras el ensayo grabado de la sesión 7. Así el alumnado podrá comparar su percepción inicial con su evolución antes de la presentación final.</p>\n<p><strong>Qué evalúa:</strong> la percepción del propio aprendizaje en seis dimensiones: seguridad, cooperación, rol asumido, control corporal, uso responsable de la tecnología y mejora tras recibir feedback.</p>\n<p><strong>Cómo se usa:</strong> cada alumno o alumna marca un nivel del 1 al 4 en cada eje. Después escribe una breve reflexión con un logro, una dificultad y un compromiso de mejora.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Dimensión</th>\n<th>1 - Inicial</th>\n<th>2 - En proceso</th>\n<th>3 - Adecuado</th>\n<th>4 - Excelente</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Seguridad en las figuras y desmontajes</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n</tr>\n<tr>\n<td>Cooperación con mi grupo</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n</tr>\n<tr>\n<td>Responsabilidad en el rol asumido</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n</tr>\n<tr>\n<td>Control corporal, equilibrio y postura</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n</tr>\n<tr>\n<td>Uso responsable de la tecnología</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n</tr>\n<tr>\n<td>Mejora después del feedback recibido</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n<td>☐</td>\n</tr>\n</tbody>\n</table>\n<h3>Preguntas de reflexión</h3>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Pregunta de reflexión</th>\n<th>Respuesta del alumnado</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Un logro conseguido por mi grupo ha sido...</td>\n<td></td>\n</tr>\n<tr>\n<td>Una dificultad que debemos mejorar es...</td>\n<td></td>\n</tr>\n<tr>\n<td>Una norma de seguridad que debo recordar siempre es...</td>\n<td></td>\n</tr>\n<tr>\n<td>Después de ver el vídeo del ensayo, cambiaría...</td>\n<td></td>\n</tr>\n<tr>\n<td>Mi compromiso para la presentación final es...</td>\n<td></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnp-8xmkyxjjy</odePageId>
+  <odeParentPageId>page-mpdrrfnl-skwlna8f2</odeParentPageId>
+  <pageName>Formulario de coevaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Formulario de coevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Formulario de coevaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnp-8xmkyxjjy</odePageId>
+      <odeBlockId>block-1779095435951-zpx8trc03</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnp-8xmkyxjjy</odePageId>
+          <odeBlockId>block-1779095435951-zpx8trc03</odeBlockId>
+          <odeIdeviceId>idevice-1779095435949-9me066zp3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Formulario de coevaluación y reflexión final</h2>
+<p><strong>Cuándo se utilizará:</strong> al finalizar la presentación final de la sesión 8. Cada grupo observará a otro grupo y completará una coevaluación respetuosa, centrada en evidencias y propuestas de mejora.</p>
+<p><strong>Qué evalúa:</strong> seguridad, cooperación, claridad de la composición, participación, creatividad y uso responsable de la grabación o de la rúbrica digital.</p>
+<p><strong>Cómo se tratarán los datos:</strong> las respuestas se recogerán mediante formulario online o plantilla en papel. El docente revisará los resultados junto a la rúbrica y la observación directa para obtener una visión equilibrada del proceso.</p>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Ítem del formulario</th>
+<th>1</th>
+<th>2</th>
+<th>3-4 / Observación esperada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>El grupo respeta las normas de seguridad durante toda la composición.</td>
+<td>Nunca o casi nunca.</td>
+<td>A veces.</td>
+<td>Frecuentemente o siempre, con apoyos y desmontajes seguros.</td>
+</tr>
+<tr>
+<td>Todos los miembros participan de forma visible y equilibrada.</td>
+<td>Participación muy desigual.</td>
+<td>Participación parcial.</td>
+<td>Participación equilibrada y adaptada a posibilidades.</td>
+</tr>
+<tr>
+<td>La composición tiene entrada, figuras, transiciones y final.</td>
+<td>No se aprecia.</td>
+<td>Aparece de forma incompleta.</td>
+<td>Estructura clara y bien organizada.</td>
+</tr>
+<tr>
+<td>El grupo coopera y se comunica adecuadamente.</td>
+<td>No se observa.</td>
+<td>Se observa parcialmente.</td>
+<td>Comunicación y ayuda entre iguales.</td>
+</tr>
+<tr>
+<td>La propuesta resulta creativa y adecuada al nivel.</td>
+<td>Poco elaborada.</td>
+<td>Algo creativa.</td>
+<td>Creativa, segura y ajustada al nivel.</td>
+</tr>
+<tr>
+<td>El uso de tecnología respeta la privacidad y sirve para mejorar.</td>
+<td>No adecuado.</td>
+<td>Con recordatorios.</td>
+<td>Responsable, seguro y con finalidad educativa.</td>
+</tr>
+</tbody>
+</table>
+<h3>Preguntas abiertas</h3>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Pregunta</th>
+<th>Respuesta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lo mejor de la composición del grupo observado ha sido...</td>
+<td></td>
+</tr>
+<tr>
+<td>Una propuesta de mejora para este grupo sería...</td>
+<td></td>
+</tr>
+<tr>
+<td>Una norma de seguridad que han respetado correctamente ha sido...</td>
+<td></td>
+</tr>
+<tr>
+<td>Algo que podemos aprender de este grupo es...</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095435949-9me066zp3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Formulario de coevaluación y reflexión final</h2>\n<p><strong>Cuándo se utilizará:</strong> al finalizar la presentación final de la sesión 8. Cada grupo observará a otro grupo y completará una coevaluación respetuosa, centrada en evidencias y propuestas de mejora.</p>\n<p><strong>Qué evalúa:</strong> seguridad, cooperación, claridad de la composición, participación, creatividad y uso responsable de la grabación o de la rúbrica digital.</p>\n<p><strong>Cómo se tratarán los datos:</strong> las respuestas se recogerán mediante formulario online o plantilla en papel. El docente revisará los resultados junto a la rúbrica y la observación directa para obtener una visión equilibrada del proceso.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Ítem del formulario</th>\n<th>1</th>\n<th>2</th>\n<th>3-4 / Observación esperada</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>El grupo respeta las normas de seguridad durante toda la composición.</td>\n<td>Nunca o casi nunca.</td>\n<td>A veces.</td>\n<td>Frecuentemente o siempre, con apoyos y desmontajes seguros.</td>\n</tr>\n<tr>\n<td>Todos los miembros participan de forma visible y equilibrada.</td>\n<td>Participación muy desigual.</td>\n<td>Participación parcial.</td>\n<td>Participación equilibrada y adaptada a posibilidades.</td>\n</tr>\n<tr>\n<td>La composición tiene entrada, figuras, transiciones y final.</td>\n<td>No se aprecia.</td>\n<td>Aparece de forma incompleta.</td>\n<td>Estructura clara y bien organizada.</td>\n</tr>\n<tr>\n<td>El grupo coopera y se comunica adecuadamente.</td>\n<td>No se observa.</td>\n<td>Se observa parcialmente.</td>\n<td>Comunicación y ayuda entre iguales.</td>\n</tr>\n<tr>\n<td>La propuesta resulta creativa y adecuada al nivel.</td>\n<td>Poco elaborada.</td>\n<td>Algo creativa.</td>\n<td>Creativa, segura y ajustada al nivel.</td>\n</tr>\n<tr>\n<td>El uso de tecnología respeta la privacidad y sirve para mejorar.</td>\n<td>No adecuado.</td>\n<td>Con recordatorios.</td>\n<td>Responsable, seguro y con finalidad educativa.</td>\n</tr>\n</tbody>\n</table>\n<h3>Preguntas abiertas</h3>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Pregunta</th>\n<th>Respuesta</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Lo mejor de la composición del grupo observado ha sido...</td>\n<td></td>\n</tr>\n<tr>\n<td>Una propuesta de mejora para este grupo sería...</td>\n<td></td>\n</tr>\n<tr>\n<td>Una norma de seguridad que han respetado correctamente ha sido...</td>\n<td></td>\n</tr>\n<tr>\n<td>Algo que podemos aprender de este grupo es...</td>\n<td></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnq-1e2oniddr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ecosistema digital del proyecto</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ecosistema digital del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ecosistema digital del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Ecosistema digital del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnq-1e2oniddr</odePageId>
+      <odeBlockId>block-1779095891836-o3q2oxvhl</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnq-1e2oniddr</odePageId>
+          <odeBlockId>block-1779095891836-o3q2oxvhl</odeBlockId>
+          <odeIdeviceId>idevice-1779095891835-dxknrcyad</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el proyecto se utilizará un ecosistema digital sencillo:</p>
+<p>- Pizarra digital para presentar vídeos, imágenes y modelos.<br />- Documento compartido para diseñar la composición grupal.<br />- Rúbrica digital para evaluar el proceso y el producto final.<br />- Formulario online para autoevaluación y coevaluación.<br />- Vídeo de ensayo para revisar errores y mejorar.<br />- Hoja de cálculo para recoger y analizar datos de evaluación.<br />- La tecnología no sustituye la práctica física. Se utiliza para observar, registrar, revisar, colaborar, reflexionar y mejorar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095891835-dxknrcyad","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el proyecto se utilizará un ecosistema digital sencillo:</p>\n<p>- Pizarra digital para presentar vídeos, imágenes y modelos.<br />- Documento compartido para diseñar la composición grupal.<br />- Rúbrica digital para evaluar el proceso y el producto final.<br />- Formulario online para autoevaluación y coevaluación.<br />- Vídeo de ensayo para revisar errores y mejorar.<br />- Hoja de cálculo para recoger y analizar datos de evaluación.<br />- La tecnología no sustituye la práctica física. Se utiliza para observar, registrar, revisar, colaborar, reflexionar y mejorar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnr-s8v4kx4ub</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Gestión de la incertidumbre</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gestión de la incertidumbre</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gestión de la incertidumbre</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnr-s8v4kx4ub</odePageId>
+      <odeBlockId>block-1779095991435-l5mn54ij9</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnr-s8v4kx4ub</odePageId>
+          <odeBlockId>block-1779095991435-l5mn54ij9</odeBlockId>
+          <odeIdeviceId>idevice-1779095991433-4bvnfawwh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2>Gestión de la incertidumbre</h2>
+<p>Durante el desarrollo de la Situación de Aprendizaje pueden aparecer dificultades técnicas, organizativas, motrices o relacionadas con la privacidad. Para garantizar que el aprendizaje continúe y que la evaluación sea justa, se prevén las siguientes medidas de ajuste.</p>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+<thead>
+<tr style="background-color: #f2f2f2;">
+<th>Situación o problema posible</th>
+<th>Riesgo para la actividad</th>
+<th>Medida de ajuste o solución</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fallo de conexión a internet</td>
+<td>No poder acceder a vídeos, imágenes, rúbricas digitales o formularios online.</td>
+<td>Utilizar vídeos previamente descargados, imágenes impresas, fichas en papel y rúbricas offline.</td>
+</tr>
+<tr>
+<td>No funciona el formulario digital</td>
+<td>No poder realizar la autoevaluación o coevaluación en formato online.</td>
+<td>Usar una versión impresa del formulario y volcar los datos posteriormente en una hoja de cálculo.</td>
+</tr>
+<tr>
+<td>Problemas con la grabación del ensayo</td>
+<td>No disponer de evidencia en vídeo para revisar errores y mejorar la composición.</td>
+<td>Realizar observación directa, revisión oral guiada y anotaciones del docente o del grupo observador.</td>
+</tr>
+<tr>
+<td>Ausencia de algún miembro del grupo</td>
+<td>Dificultad para mantener la composición prevista o repartir correctamente los roles.</td>
+<td>Reorganizar el grupo, adaptar las figuras y redistribuir los roles de portor, ágil, ayuda u observador.</td>
+</tr>
+<tr>
+<td>Lesión o limitación motriz puntual</td>
+<td>Imposibilidad de realizar determinados apoyos, equilibrios o figuras.</td>
+<td>Asignar roles alternativos: ayuda, coordinador de seguridad, observador, responsable de rúbrica o registro del proceso.</td>
+</tr>
+<tr>
+<td>Diferente nivel motriz del alumnado</td>
+<td>Comparar ejecuciones sin tener en cuenta el punto de partida de cada alumno o alumna.</td>
+<td>Valorar el progreso, la seguridad, el esfuerzo, la participación y el rol asumido, no solo la dificultad de la figura.</td>
+</tr>
+<tr>
+<td>Desigual participación dentro del grupo</td>
+<td>Que algunos alumnos queden invisibilizados o participen poco en la composición.</td>
+<td>Usar observación docente, autoevaluación y coevaluación para comprobar la participación real y redistribuir tareas.</td>
+</tr>
+<tr>
+<td>Dificultad excesiva en una figura</td>
+<td>Riesgo de inseguridad, frustración o mala ejecución técnica.</td>
+<td>Sustituir la figura por una alternativa más sencilla, segura y adaptada al nivel del grupo.</td>
+</tr>
+<tr>
+<td>Conflictos o falta de comunicación en el grupo</td>
+<td>Dificultad para organizar la secuencia, tomar decisiones y mantener la cooperación.</td>
+<td>Asignar turnos de palabra, recordar normas de respeto, repartir responsabilidades y realizar mediación docente.</td>
+</tr>
+<tr>
+<td>Uso inadecuado de dispositivos digitales</td>
+<td>Distracciones, grabaciones no autorizadas o uso ajeno a la tarea.</td>
+<td>Recordar las normas de uso responsable, limitar el tiempo de uso y emplear dispositivos solo con finalidad educativa.</td>
+</tr>
+<tr>
+<td>Problemas de privacidad en imágenes o vídeos</td>
+<td>Uso indebido de la imagen del alumnado o difusión fuera del aula.</td>
+<td>Grabar solo con permiso, no difundir imágenes, usar dispositivos del centro y eliminar los vídeos al finalizar el proceso.</td>
+</tr>
+<tr>
+<td>Sesgo en la coevaluación</td>
+<td>Valoraciones poco objetivas por amistad, conflicto o falta de atención.</td>
+<td>Solicitar evidencias concretas, usar lenguaje respetuoso y contrastar la coevaluación con la rúbrica docente.</td>
+</tr>
+</tbody>
+</table>
+<h3>Conclusión</h3>
+<p>La tecnología y la organización del aula deben estar al servicio del aprendizaje. Por ello, si una herramienta digital falla o aparece una dificultad durante la práctica, la actividad continuará mediante alternativas analógicas, adaptaciones de la tarea o reorganización de los grupos. Lo más importante será mantener la seguridad, la cooperación, la participación equilibrada y la mejora progresiva del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779095991433-4bvnfawwh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2>Gestión de la incertidumbre</h2>\n<p>Durante el desarrollo de la Situación de Aprendizaje pueden aparecer dificultades técnicas, organizativas, motrices o relacionadas con la privacidad. Para garantizar que el aprendizaje continúe y que la evaluación sea justa, se prevén las siguientes medidas de ajuste.</p>\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%;\">\n<thead>\n<tr style=\"background-color: #f2f2f2;\">\n<th>Situación o problema posible</th>\n<th>Riesgo para la actividad</th>\n<th>Medida de ajuste o solución</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Fallo de conexión a internet</td>\n<td>No poder acceder a vídeos, imágenes, rúbricas digitales o formularios online.</td>\n<td>Utilizar vídeos previamente descargados, imágenes impresas, fichas en papel y rúbricas offline.</td>\n</tr>\n<tr>\n<td>No funciona el formulario digital</td>\n<td>No poder realizar la autoevaluación o coevaluación en formato online.</td>\n<td>Usar una versión impresa del formulario y volcar los datos posteriormente en una hoja de cálculo.</td>\n</tr>\n<tr>\n<td>Problemas con la grabación del ensayo</td>\n<td>No disponer de evidencia en vídeo para revisar errores y mejorar la composición.</td>\n<td>Realizar observación directa, revisión oral guiada y anotaciones del docente o del grupo observador.</td>\n</tr>\n<tr>\n<td>Ausencia de algún miembro del grupo</td>\n<td>Dificultad para mantener la composición prevista o repartir correctamente los roles.</td>\n<td>Reorganizar el grupo, adaptar las figuras y redistribuir los roles de portor, ágil, ayuda u observador.</td>\n</tr>\n<tr>\n<td>Lesión o limitación motriz puntual</td>\n<td>Imposibilidad de realizar determinados apoyos, equilibrios o figuras.</td>\n<td>Asignar roles alternativos: ayuda, coordinador de seguridad, observador, responsable de rúbrica o registro del proceso.</td>\n</tr>\n<tr>\n<td>Diferente nivel motriz del alumnado</td>\n<td>Comparar ejecuciones sin tener en cuenta el punto de partida de cada alumno o alumna.</td>\n<td>Valorar el progreso, la seguridad, el esfuerzo, la participación y el rol asumido, no solo la dificultad de la figura.</td>\n</tr>\n<tr>\n<td>Desigual participación dentro del grupo</td>\n<td>Que algunos alumnos queden invisibilizados o participen poco en la composición.</td>\n<td>Usar observación docente, autoevaluación y coevaluación para comprobar la participación real y redistribuir tareas.</td>\n</tr>\n<tr>\n<td>Dificultad excesiva en una figura</td>\n<td>Riesgo de inseguridad, frustración o mala ejecución técnica.</td>\n<td>Sustituir la figura por una alternativa más sencilla, segura y adaptada al nivel del grupo.</td>\n</tr>\n<tr>\n<td>Conflictos o falta de comunicación en el grupo</td>\n<td>Dificultad para organizar la secuencia, tomar decisiones y mantener la cooperación.</td>\n<td>Asignar turnos de palabra, recordar normas de respeto, repartir responsabilidades y realizar mediación docente.</td>\n</tr>\n<tr>\n<td>Uso inadecuado de dispositivos digitales</td>\n<td>Distracciones, grabaciones no autorizadas o uso ajeno a la tarea.</td>\n<td>Recordar las normas de uso responsable, limitar el tiempo de uso y emplear dispositivos solo con finalidad educativa.</td>\n</tr>\n<tr>\n<td>Problemas de privacidad en imágenes o vídeos</td>\n<td>Uso indebido de la imagen del alumnado o difusión fuera del aula.</td>\n<td>Grabar solo con permiso, no difundir imágenes, usar dispositivos del centro y eliminar los vídeos al finalizar el proceso.</td>\n</tr>\n<tr>\n<td>Sesgo en la coevaluación</td>\n<td>Valoraciones poco objetivas por amistad, conflicto o falta de atención.</td>\n<td>Solicitar evidencias concretas, usar lenguaje respetuoso y contrastar la coevaluación con la rúbrica docente.</td>\n</tr>\n</tbody>\n</table>\n<h3>Conclusión</h3>\n<p>La tecnología y la organización del aula deben estar al servicio del aprendizaje. Por ello, si una herramienta digital falla o aparece una dificultad durante la práctica, la actividad continuará mediante alternativas analógicas, adaptaciones de la tarea o reorganización de los grupos. Lo más importante será mantener la seguridad, la cooperación, la participación equilibrada y la mejora progresiva del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdrrfnr-7zkbntc9m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnr-7zkbntc9m</odePageId>
+      <odeBlockId>block-1779096074724-p1bctpcmp</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnr-7zkbntc9m</odePageId>
+          <odeBlockId>block-1779096074724-p1bctpcmp</odeBlockId>
+          <odeIdeviceId>idevice-1779096074723-19961rted</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Autoría:</strong> Juan Francisco García Sorroche.</p>
+<p style="text-align: justify;"><strong>Descripción</strong>: Situación de Aprendizaje de Educación Física para 1.º de ESO centrada en el acrosport cooperativo, la seguridad, la creación de una composición grupal y el uso responsable de tecnologías digitales.</p>
+<p style="text-align: justify;"><strong>Licencia</strong>: Creative Commons Reconocimiento - No Comercial - Compartir Igual 4.0 Internacional, CC BY-NC-SA 4.0.</p>
+<p style="text-align: justify;"><strong>Créditos de recursos externos</strong>: Las imágenes, vídeos, audios o recursos externos utilizados se citan indicando autoría, procedencia y licencia. Se priorizan recursos propios, recursos del centro o materiales con licencia abierta.</p>
+<p style="text-align: justify;"><strong>Descarga del archivo editable</strong>: </p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779096074723-19961rted","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Autoría:</strong> Juan Francisco García Sorroche.</p>\n<p style=\"text-align: justify;\"><strong>Descripción</strong>: Situación de Aprendizaje de Educación Física para 1.º de ESO centrada en el acrosport cooperativo, la seguridad, la creación de una composición grupal y el uso responsable de tecnologías digitales.</p>\n<p style=\"text-align: justify;\"><strong>Licencia</strong>: Creative Commons Reconocimiento - No Comercial - Compartir Igual 4.0 Internacional, CC BY-NC-SA 4.0.</p>\n<p style=\"text-align: justify;\"><strong>Créditos de recursos externos</strong>: Las imágenes, vídeos, audios o recursos externos utilizados se citan indicando autoría, procedencia y licencia. Se priorizan recursos propios, recursos del centro o materiales con licencia abierta.</p>\n<p style=\"text-align: justify;\"><strong>Descarga del archivo editable</strong>: </p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpdrrfnr-7zkbntc9m</odePageId>
+      <odeBlockId>block-1779266251553-x7r2nlz8q</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdrrfnr-7zkbntc9m</odePageId>
+          <odeBlockId>block-1779266251553-x7r2nlz8q</odeBlockId>
+          <odeIdeviceId>idevice-1779266251551-jz2sojd0g</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Construimos figuras cooperativas: acrosport, seguridad y trabajo en equipo</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Recurso educativo digital creado con eXeLearning 3 para desarrollar una Situación de Aprendizaje de Educación Física en 1.º de ESO. El alumnado diseñará y presentará una composición grupal de acrosport, aplicando normas de seguridad, cooperación, participación equilibrada y uso responsable de tecnologías digitales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Juan Francisco García Sorroche</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
